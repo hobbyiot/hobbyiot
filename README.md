@@ -2,9 +2,9 @@
 - 👀 I’m interested in open source projects in the area of Internet of Things (IoT) including low power sensors, wireless communications, data transmission, storage, processing and visualization.
 - 🌱 I’m currently learning the principles of the people's network Helium transfering IoT data over it.
 - 💞️ I’m looking to collaborate on my open source projects.
-- 📫 How to reach me: GitHub/Twitter/Patreon (coming soon): @hobbyiot, email: sivanov@hobbyiot.net
+- 📫 How to reach me: [GitHub](https://github.com/hobbyiot)/[X/Twitter](https://x.com/HobbyIoT)/[Patreon](https://www.patreon.com/HobbyIoT), email: sivanov@hobbyiot.net
 - 😄 Pronouns: TBA
-- ⚡ Fun fact: I just finished supporting a student team creating a Battle bot and they reached 1st place !
+- ⚡ Fun fact: I supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
 
 <!---
 hobbyiot/hobbyiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
