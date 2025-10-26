@@ -6,6 +6,10 @@
 - 😄 Pronouns: TBA
 - ⚡ Fun fact: I supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
 
+- If you want to sponsor the HobbyIoT projects, use the QR code BTC address below
+
+- ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/.github/BTC_SI_QR.png)
+
 <!---
 hobbyiot/hobbyiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
