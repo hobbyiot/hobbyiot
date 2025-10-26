@@ -6,6 +6,9 @@
 - 😄 Pronouns: TBA
 - ⚡ Fun fact: I supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
 
+- Donate Bitcoin:  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
+- Donate HNT:      9Un8EUQdXY53rSst26B5tufz9FUZbhcfqTYNMr4AuATh
+
 <!---
 hobbyiot/hobbyiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
