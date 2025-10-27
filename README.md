@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on my open source projects.
 - 📫 How to reach me: [GitHub](https://github.com/hobbyiot)/[X/Twitter](https://x.com/HobbyIoT)/[Patreon](https://www.patreon.com/HobbyIoT), email: sivanov@hobbyiot.net
 - 😄 Pronouns: TBA
-- ⚡ Fun fact: I supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
+- ⚡ Fun fact: We supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
 
+- Donate Levcoin:  bg2HVDv6r9VhCi2fR8QeBy5VAgbcav7YY3yypi6ugYoBFXgFmqjQGKWjm7LZrsRQx488v58UjnYXRNdQKU5vjsiA2Yj1kNtYZ
 - Donate Bitcoin:  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
 - Donate HNT:      9Un8EUQdXY53rSst26B5tufz9FUZbhcfqTYNMr4AuATh
 
