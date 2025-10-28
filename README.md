@@ -6,6 +6,8 @@
 - 😄 Pronouns: TBA
 - ⚡ Fun fact: We supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
 
+- ⚡ Crypto donations are accepted, Levcoin is welcome!
+
 - Donate Levcoin:  bg2HVDv6r9VhCi2fR8QeBy5VAgbcav7YY3yypi6ugYoBFXgFmqjQGKWjm7LZrsRQx488v58UjnYXRNdQKU5vjsiA2Yj1kNtYZ
 - Donate Bitcoin:  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
 - Donate HNT:      9Un8EUQdXY53rSst26B5tufz9FUZbhcfqTYNMr4AuATh
