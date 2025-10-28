@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Simeon Ivanov, creator of the HobbyIoT opensource adventure.
+- 👋 Hi, my name is Simeon Ivanov the founder of the HobbyIoT opensource adventure.
 - 👀 I’m interested in open source projects in the area of Internet of Things (IoT) including low power sensors, wireless communications, data transmission, storage, processing and visualization.
 - 🌱 I’m currently learning the principles of the people's network Helium transfering IoT data over it.
 - 💞️ I’m looking to collaborate on my open source projects.
