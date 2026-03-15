@@ -1,16 +1,21 @@
-- 👋 Hi, my name is Simeon Ivanov the founder of the HobbyIoT opensource adventure.
-- 👀 I’m interested in open source projects in the area of Internet of Things (IoT) including low power sensors, wireless communications, data transmission, storage, processing and visualization.
-- 🌱 I’m currently learning the principles of the people's network Helium transfering IoT data over it.
-- 💞️ I’m looking to collaborate on my open source projects.
-- 📫 How to reach me: [GitHub](https://github.com/hobbyiot)/[X/Twitter](https://x.com/HobbyIoT)/[Patreon](https://www.patreon.com/HobbyIoT), email: sivanov@hobbyiot.net
-- 😄 Pronouns: TBA
-- ⚡ Fun fact: We supported a student team creating a Battle bot and they reached 1st place during [TuesFEST2024](https://tuesfest.bg/projects/category/battlebot)!
+👋
 
-- ⚡ Crypto donations are accepted, Levcoin is welcome!
+#### Welcome to the HobbyIoT GitHub repos! My name is Simeon Ivanov - the founder of the HobbyIoT opensource adventure.
 
-- Donate [Levcoin](https://levcoin.net/):  bg2HVDv6r9VhCi2fR8QeBy5VAgbcav7YY3yypi6ugYoBFXgFmqjQGKWjm7LZrsRQx488v58UjnYXRNdQKU5vjsiA2Yj1kNtYZ
-- Donate Bitcoin (BTC):  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
-- Donate Helium (HNT):      9Un8EUQdXY53rSst26B5tufz9FUZbhcfqTYNMr4AuATh
+🌱 Our mission is to create valuable opensource hardware project to expand and grow the technologies worldwide
+
+🌱 We currently designing the new H2S-Dev board including ESP32-S3 with lots of PSRAM, powerful LoRa module and many other development function
+
+👀 We are here to discuss all the solutions to share the knowledge accross the community
+
+#### ⚡ Need a help on your embedded project? We can arrange a project review according your needs!
+
+#### 💞️ If you are interested in my projects, please consider supporting my work and I will be happy to share my design details with each of you in a dedicated discussion - just share a coffee with me.
+
+
+Simeon Ivanov, The HobbyIoT team
+
+⚡  Donate Bitcoin (BTC):  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
 
 <!---
 hobbyiot/hobbyiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
