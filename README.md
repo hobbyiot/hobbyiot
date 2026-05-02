@@ -10,12 +10,21 @@
 
 #### ⚡ Need a help on your embedded project? We can arrange a project review according your needs!
 
-#### 💞️ If you are interested in our projects, please consider supporting our work and I will be happy to share my design details with each of you in a dedicated discussion - just share a coffee with me.
+#
 
+<div align="center">
+
+#### 💞️ If you are interested in these projects, please consider supporting my work! I will be happy to share my design details with each of you in a dedicated discussion!
+
+#### Just share a coffee with me at https://buymeacoffee.com/hobbyiot
+
+<img width="27" height="39" alt="image" src="https://github.com/user-attachments/assets/cb3e5f8d-a1bd-41b5-81c9-0aec3d508c47" />
+
+</div>
+
+#
 
 Simeon Ivanov, The HobbyIoT team
-
-⚡  Donate Bitcoin (BTC):  bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
 
 <!---
 hobbyiot/hobbyiot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
